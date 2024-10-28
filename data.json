@@ -1,0 +1,339 @@
+[
+    {
+      "id": 1,
+      "name": "Adrar",
+      "area": 424948,
+      "population": 402197,
+      "info": "Adrar: A region in the southwest, known for its desert landscapes and traditional ksars."
+    },
+    {
+      "id": 2,
+      "name": "Chlef",
+      "area": 4915,
+      "population": 1028000,
+      "info": "Chlef: A coastal province famous for agriculture, especially olive production, and beautiful beaches."
+    },
+    {
+      "id": 3,
+      "name": "Laghouat",
+      "area": 25410,
+      "population": 477328,
+      "info": "Laghouat: Known for its oases and gateway to the Sahara."
+    },
+    {
+      "id": 4,
+      "name": "Oum El Bouaghi",
+      "area": 6120,
+      "population": 655184,
+      "info": "Oum El Bouaghi: An agricultural hub in the northeast, known for wheat production."
+    },
+    {
+      "id": 5,
+      "name": "Batna",
+      "area": 12483,
+      "population": 725404,
+      "info": "Batna: Home to the Aures Mountains and Roman ruins like Timgad."
+    },
+    {
+      "id": 6,
+      "name": "Béjaïa",
+      "area": 3208,
+      "population": 1500000,
+      "info": "Béjaïa: A coastal city known for its Kabyle culture and stunning beaches."
+    },
+    {
+      "id": 7,
+      "name": "Biskra",
+      "area": 21065,
+      "population": 181812,
+      "info": "Biskra: Famous for palm groves and as the 'Gateway to the Desert'."
+    },
+    {
+      "id": 8,
+      "name": "Béchar",
+      "area": 42708,
+      "population": 159153,
+      "info": "Béchar: Located in the Sahara, known for dates and music festivals."
+    },
+    {
+      "id": 9,
+      "name": "Blida",
+      "area": 1670,
+      "population": 400000,
+      "info": "Blida: Known as the 'City of Roses' with a scenic location at the base of the Atlas Mountains."
+    },
+    {
+      "id": 10,
+      "name": "Bouira",
+      "area": 4105,
+      "population": 620000,
+      "info": "Bouira: A region with beautiful landscapes and the famous Djurdjura National Park."
+    },
+    {
+      "id": 11,
+      "name": "Tamanrasset",
+      "area": 557910,
+      "population": 140000,
+      "info": "Tamanrasset: A desert town and hub for Saharan tourism and the Tuareg culture."
+    },
+    {
+      "id": 12,
+      "name": "Tébessa",
+      "area": 13453,
+      "population": 224000,
+      "info": "Tébessa: Known for its ancient Roman architecture and mining industry."
+    },
+    {
+      "id": 13,
+      "name": "Tlemcen",
+      "area": 9400,
+      "population": 250000,
+      "info": "Tlemcen: A cultural center with Andalusian influences and historic landmarks."
+    },
+    {
+      "id": 14,
+      "name": "Tiaret",
+      "area": 17902,
+      "population": 295000,
+      "info": "Tiaret: A highland city with historical links to the Berber Rustamid dynasty."
+    },
+    {
+      "id": 15,
+      "name": "Tizi Ouzou",
+      "area": 2900,
+      "population": 1400000,
+      "info": "Tizi Ouzou: Heartland of the Kabyle people, known for cultural festivals."
+    },
+    {
+      "id": 16,
+      "name": "Algiers",
+      "area": 363,
+      "population": 4000000,
+      "info": "Algiers: The capital, known for its Ottoman-era architecture and vibrant city life."
+    },
+    {
+      "id": 17,
+      "name": "Djelfa",
+      "area": 26740,
+      "population": 200000,
+      "info": "Djelfa: Located on the Hautes Plaines, known for livestock farming."
+    },
+    {
+      "id": 18,
+      "name": "Jijel",
+      "area": 2700,
+      "population": 350000,
+      "info": "Jijel: A coastal area with beautiful beaches and diverse wildlife."
+    },
+    {
+      "id": 19,
+      "name": "Sétif",
+      "area": 6320,
+      "population": 750000,
+      "info": "Sétif: An economic hub known for agriculture and the Ain El Fouara fountain."
+    },
+    {
+      "id": 20,
+      "name": "Saïda",
+      "area": 4600,
+      "population": 180000,
+      "info": "Saïda: Known for its natural springs and pastoral landscapes."
+    },
+    {
+      "id": 21,
+      "name": "Skikda",
+      "area": 6730,
+      "population": 250000,
+      "info": "Skikda: A major port city with a mix of Roman ruins and modern industry."
+    },
+    {
+      "id": 22,
+      "name": "Sidi Bel Abbès",
+      "area": 8025,
+      "population": 300000,
+      "info": "Sidi Bel Abbès: A city with a strong colonial past and vibrant cultural scene."
+    },
+    {
+      "id": 23,
+      "name": "Annaba",
+      "area": 1272,
+      "population": 250000,
+      "info": "Annaba: Known for its beaches and proximity to the ancient city of Hippo Regius."
+    },
+    {
+      "id": 24,
+      "name": "Guelma",
+      "area": 2872,
+      "population": 140000,
+      "info": "Guelma: Home to ancient ruins and beautiful hot springs."
+    },
+    {
+      "id": 25,
+      "name": "Constantine",
+      "area": 2180,
+      "population": 440000,
+      "info": "Constantine: Known as the 'City of Bridges' due to its dramatic ravine crossings."
+    },
+    {
+      "id": 26,
+      "name": "Médéa",
+      "area": 4133,
+      "population": 390000,
+      "info": "Médéa: A region known for its vineyards and scenic views."
+    },
+    {
+      "id": 27,
+      "name": "Mostaganem",
+      "area": 3490,
+      "population": 270000,
+      "info": "Mostaganem: A coastal city with a blend of Andalusian culture and modern life."
+    },
+    {
+      "id": 28,
+      "name": "M'Sila",
+      "area": 18530,
+      "population": 660000,
+      "info": "M'Sila: Known for its proximity to the ancient city of Beni Hammad."
+    },
+    {
+      "id": 29,
+      "name": "Mascara",
+      "area": 21000,
+      "population": 640000,
+      "info": "Mascara: Famous for its vineyards and the birthplace of Emir Abdelkader."
+    },
+    {
+      "id": 30,
+      "name": "Ouargla",
+      "area": 190000,
+      "population": 140000,
+      "info": "Ouargla: An oasis city known for oil production and traditional markets."
+    },
+    {
+      "id": 31,
+      "name": "Oran",
+      "area": 17000,
+      "population": 800000,
+      "info": "Oran: Algeria's second-largest city, known for its music and vibrant nightlife."
+    },
+    {
+      "id": 32,
+      "name": "El Bayadh",
+      "area": 122000,
+      "population": 115000,
+      "info": "El Bayadh: A semi-desert region with pastoral traditions."
+    },
+    {
+      "id": 33,
+      "name": "Illizi",
+      "area": 284800,
+      "population": 31593,
+      "info": "Illizi: Known for its stunning Tassili n'Ajjer rock art."
+    },
+    {
+      "id": 34,
+      "name": "Bordj Bou Arréridj",
+      "area": 6224,
+      "population": 480000,
+      "info": "Bordj Bou Arréridj: An industrial hub, especially for electronics."
+    },
+    {
+    "id": 35,
+    "name": "Boumerdès",
+    "area": 2156,
+    "population": 220000,
+    "info": "Boumerdès: A coastal province known for its scenic beaches and historical sites."
+    },
+    {
+    "id": 36,
+    "name": "El Tarf",
+    "area": 2567,
+    "population": 200000,
+    "info": "El Tarf: Renowned for its beautiful Mediterranean coast and nature reserves."
+    },
+    {
+    "id": 37,
+    "name": "Tindouf",
+    "area": 284000,
+    "population": 60000,
+    "info": "Tindouf: Known for its vast desert landscapes and the Sahrawi refugee camps."
+    },
+    {
+    "id": 38,
+    "name": "Tissemsilt",
+    "area": 4383,
+    "population": 168000,
+    "info": "Tissemsilt: A mountainous region known for its rich history and cultural heritage."
+    },
+    {
+    "id": 39,
+    "name": "El Oued",
+    "area": 24426,
+    "population": 410000,
+    "info": "El Oued: Famous for its palm oases and as a center for traditional crafts."
+    },
+    {
+    "id": 40,
+    "name": "Khenchela",
+    "area": 21644,
+    "population": 160000,
+    "info": "Khenchela: Known for its mountainous terrain and rich agricultural land."
+    },
+    {
+    "id": 41,
+    "name": "Souk Ahras",
+    "area": 7780,
+    "population": 200000,
+    "info": "Souk Ahras: A region with rich historical significance and beautiful landscapes."
+    },
+    {
+    "id": 42,
+    "name": "Tipaza",
+    "area": 2688,
+    "population": 134000,
+    "info": "Tipaza: Known for its Roman ruins and beautiful coastal scenery."
+    },
+    {
+    "id": 43,
+    "name": "Mila",
+    "area": 3058,
+    "population": 440000,
+    "info": "Mila: Rich in history with numerous archaeological sites and a vibrant culture."
+    },
+    {
+    "id": 44,
+    "name": "Aïn Defla",
+    "area": 4210,
+    "population": 240000,
+    "info": "Aïn Defla: Known for its fertile plains and traditional agriculture."
+    },
+    {
+    "id": 45,
+    "name": "Naama",
+    "area": 29000,
+    "population": 120000,
+    "info": "Naama: A mountainous region famous for its natural beauty and wildlife."
+    },
+    {
+    "id": 46,
+    "name": "Aïn Témouchent",
+    "area": 2825,
+    "population": 140000,
+    "info": "Aïn Témouchent: A coastal region known for its agricultural products and beaches."
+    },
+    {
+    "id": 47,
+    "name": "Ghardaïa",
+    "area": 119550,
+    "population": 150000,
+    "info": "Ghardaïa: Known for its unique M'zab Valley and traditional architecture."
+    },
+    {
+    "id": 48,
+    "name": "Relizane",
+    "area": 4870,
+    "population": 733060,
+    "info": "Relizane: An important agricultural area with rich historical heritage."
+    }
+]
+    
