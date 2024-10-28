@@ -2,7 +2,7 @@ html{
     font-family: "Roboto", sans-serif;
 }
 .land {
-    fill: #CCCCCC;
+    fill: #0e7923;
     stroke: white;
     stroke-width: 0.5;
 }
@@ -10,7 +10,7 @@ h1{
     text-align: center;
 }
 .land:hover {
-fill: #8BC34A; /* Change color on hover */
+fill: #de4439; /* Change color on hover */
 }
 .map{
     width: 50%;
